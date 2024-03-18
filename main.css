@@ -1,0 +1,44 @@
+
+header {
+    height: 50px;
+    margin-bottom: 5px;
+    background-color: #021120;
+    color: rgb(241, 231, 197);
+}
+
+header h1 {
+    margin-left: 40px;
+    font-size:30px;
+}
+
+.container {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.carousel-item img {
+    margin: 0 auto; 
+    max-width: 90vw;
+}
+
+.card {
+    max-width: 300px; /* Defina a largura máxima dos cards */
+    height: 500px;
+}
+
+.card img {
+    height: 220px; /* Defina a altura máxima das imagens dos cards */
+}
+
+.card-body {
+    height: 220px; /* Defina uma altura fixa para o corpo dos cards */
+}
+
+.card-text {
+    font-size: 14px;
+    height: 170px;
+    text-align: justify;
+}
+
+
+
